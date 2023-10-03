@@ -29,9 +29,9 @@
 ## 💬 More about me:
 
 > My name is Cassiano Monteiro.
-
-> I'm the kind of programmer that likes to face intellectual challenges, logical puzzles of high complexity, finding solutions to difficult problems, chasing bugs of uncanny nature and also just make things look good and cleaning the code when there's no big challenges.
-
-> My first interest is making game mechanics or working in the backend, second is working in the UI/UX or in the frontend.
-
-> I'm also interested in enhancing my english and spanish proficiency.
+  
+  I'm the kind of programmer that likes to face intellectual challenges, logical puzzles of high complexity, finding solutions to difficult problems, chasing bugs of uncanny nature and also just make things look good and cleaning the code when there's no big challenges.
+  
+  My first interest is making game mechanics or working in the backend, second is working in the UI/UX or in the frontend.
+  
+  I'm also interested in enhancing my english and spanish proficiency.
